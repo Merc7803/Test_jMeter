@@ -13,7 +13,7 @@ Kịch bản kiểm tra:
 
 Kết quả kiểm tra:
     ![alt text](image.png)
-
+:
     ![alt text](image-1.png)
 
 Kết luận:
@@ -33,21 +33,12 @@ Kịch bản kiểm tra:
 
 Kết quả kiểm tra:
     ![alt text](image-2.png)
-
+:
     ![alt text](image-3.png)
 
 Kết luận:
     Trang web https://reqres.in có hiệu năng tốt. Với kịch bản đã kiểm tra số lượng yêu cầu thành công ở mức khá (94%) và số lượng yêu cầu thành công ở mức 6% vì vậy có thể ảnh hưởng đến trải nghiệm người dùng.
 
-3. So sánh hiệu năng của hai trang web hoặc API:
-Kiểm tra 2 trang web: https://www.accuweather.com/
-                      https://www.theweathernetwork.com/ca
 
-Kịch bản kiểm tra: 
-    - Thread Group:
-        Number of Threads (users): 100
-        Ramp-up period (seconds): 10 giây
-        
-Kết quả kiểm tra:
-    
+
 
